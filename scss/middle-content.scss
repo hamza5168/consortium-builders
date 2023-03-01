@@ -1,0 +1,31 @@
+.heading {
+    margin: 78px 0px 65px 0px;
+    text-align: center;
+}
+
+
+.middle-container {
+    margin: 0px 165px 0px 165px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 56px;
+    
+    p{
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+    ul{
+        
+        padding: 0px 0px 6px 17px;
+    
+     li{
+            padding-bottom: 10px;
+            padding-left: 10px;
+        }
+    }
+    .ceo-signature{
+        margin-top: 53px;
+    }
+}
+
+

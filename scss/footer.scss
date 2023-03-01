@@ -1,0 +1,18 @@
+.foooter-container{
+       
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 75px; 
+    .last-desc{
+        font-size: 20px;
+        text-align: center;
+        padding: 35px 0px 0px 0px;
+        color: #91999c;
+    }
+    .multiple-logos{
+        text-align: center;
+        padding: 17px 0px 0px 0px;
+    }
+    
+
+}
